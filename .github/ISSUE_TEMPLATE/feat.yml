@@ -1,0 +1,14 @@
+name: "📚 Training"
+description: "Which part do you train?"
+body:
+  - type: textarea
+    attributes:
+      label: Write down which part you train.
+  - type: textarea
+    attributes:
+      label: Date
+      description: Write down end date.
+  - type: textarea
+    attributes:
+      label: Reference Link
+      description: Write down reference link you got help with.
